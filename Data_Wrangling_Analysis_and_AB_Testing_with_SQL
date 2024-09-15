@@ -1,0 +1,10 @@
+Data Wrangling, Analysis, and AB Testing with SQL
+This project demonstrates the application of SQL skills for data wrangling, analysis, and A/B testing, building on the foundations covered in SQL for Data Science. 
+It covers four progressively complex data science case studies, where you'll learn and apply the following skills:
+
+Timestamp Conversion & Date Calculations: Transform various timestamp formats into a standard format and perform date and time calculations.
+Data Cleaning with SQL: Implement optimal JOINs, deduplicate records, perform quality checks, backfill data, and handle null values within datasets.
+Segmented Analysis: Use window functions to segment and analyze data, and employ CASE statements for conditional logic in addressing specific data science queries.
+Query Automation & Partitioning: Learn how to convert queries into scheduled jobs and insert data into date-partitioned tables.
+Feature Engineering: Given a predictive analysis task, create features from raw data using SQL.
+In the final stages, you will use these skills to conduct and analyze an A/B test, providing a comprehensive, real-world application of SQL for data science.
